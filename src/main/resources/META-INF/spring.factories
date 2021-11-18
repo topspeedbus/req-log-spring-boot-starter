@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.janezt.reqlogspringbootstarter.configure.ReqLogConfiguration,\
+com.janezt.reqlogspringbootstarter.configure.WebMvcConfiguration4ReqLog
