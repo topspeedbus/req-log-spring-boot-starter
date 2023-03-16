@@ -17,7 +17,7 @@ component:
     logs:
       enabled: false
 ```
-##请求实列
+##请求实例
 ```log
 18:13:48.096 [http-nio-8130-exec-2] INFO  c.j.r.c.i.LogInterceptor - [preHandle,46] - Start: /task/list
 18:13:48.099 [http-nio-8130-exec-2] INFO  c.j.r.c.i.LogInterceptor - [preHandle,50] - invoke /task/list, Params: {"execution":["633"],"taskType":["5"]}, Headers: {"authorization":"Bearer 52a73216-721a-4d73-81cc-b088d4849f8f","content-length":"204","postman-token":"10db6bfb-efee-4802-bcb5-8e1c82c51f5a","host":"localhost:8130","content-type":"application/json","connection":"keep-alive","cache-control":"no-cache","accept-encoding":"gzip, deflate, br","user-agent":"PostmanRuntime/7.28.4","accept":"*/*"}
